@@ -19,7 +19,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.6.0",
     "nuxt": "3.0.0-rc.11",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "vercel": "^28.4.10"
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.2",
