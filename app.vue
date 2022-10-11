@@ -1,5 +1,14 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <nuxt-layout>
+    <nuxt-page />
+  </nuxt-layout>
 </template>
+<script lang="ts">
+export default defineComponent({
+  setup() {
+    useHead({
+      title: 'Beers',
+    })
+  },
+})
+</script>

@@ -21,7 +21,7 @@
     "vue/max-attributes-per-line": "off",
     "no-console": 1,
     "vue/multi-word-component-names": ["error", {
-      "ignores": ["default", "Index", "index"]
+      "ignores": ["default", "Index", "index", "Loading"]
     }]
   }
 }
